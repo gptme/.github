@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi there, welcome to gptme! 👋
 
-Welcome to the gptme organization!
+Here we build and develop [gptme], a free and open-source AI assistant that lives in your terminal. It is general-purpose with a wide variety of tools (shell, ipython, browser, computer use), and also an excellent coding agent.
 
-Here we build and develop [gptme], and AI assistant in your terminal.
+We also build a variety of projects around and on top, like [gptme-agent-template], [gptme-rag], and [wrappers for social media][gptme-contrib] like Discord and Twitter.
 
-This organization isn't used for much, yet. It was mostly created to prevent someone else swatting the name.
+Try it out, tell us what you think, and contribute! See the [getting started guide][docs-getting-started] in the [docs] to get started.
 
-You can find the gptme project [here][gptme].
-
-[gptme]: https://github.com/ErikBjare/gptme
+[gptme]: https://github.com/gptme/gptme
+[gptme-rag]: https://github.com/gptme/gptme-rag
+[gptme-contrib]: https://github.com/gptme/gptme-contrib
+[gptme-agent-template]: https://github.com/gptme/gptme-agent-template
+[docs]: https://gptme.org/docs/
+[docs-getting-started]: https://gptme.org/docs/getting-started.html
